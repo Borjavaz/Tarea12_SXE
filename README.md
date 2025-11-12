@@ -6,11 +6,11 @@ Ejemplo de creacion de clientes:
 
 Ejemplo de creacion de provedores:
 
-<img width="955" height="801" alt="image" src="https://github.com/user-attachments/assets/7433a1d8-2109-4c58-a312-d8d89ed7755d" />
+<img width="1252" height="484" alt="image" src="https://github.com/user-attachments/assets/c2b6685c-f397-4ed0-ae75-12a91c8645c8" />
 
 Estos son los clientes:
 
-<img width="1920" height="523" alt="image" src="https://github.com/user-attachments/assets/54514db1-22b1-4aba-909f-b9fc486cdf99" />
+<img width="1915" height="512" alt="image" src="https://github.com/user-attachments/assets/2d2c6c14-d491-4994-b1e6-0962a59441ca" />
 
 Estos son los provedores:
 
