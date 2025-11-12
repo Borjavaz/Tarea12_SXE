@@ -25,3 +25,30 @@ Facturas de provedores
 
 <img width="1920" height="472" alt="image" src="https://github.com/user-attachments/assets/dd90cb05-b97e-4612-8f8d-e89ee2f6ec11" />
 
+---
+
+### Módulo Elegido: Gestión de Relaciones con Clientes (CRM)
+
+#### Razón de la Instalación
+
+La empresa PrimoPlus S.L. ha estado gestionando su proceso de preventa y seguimiento de oportunidades mediante hojas de cálculo, lo que resulta en una pérdida de trazabilidad y dificultad para priorizar el trabajo del equipo comercial.
+
+El módulo CRM de Odoo fue instalado porque:
+
+- Centraliza la Información: Permite concentrar todos los contactos, interacciones y el historial de comunicación    con los prospectos en un solo lugar.
+- Ofrece una vista Kanban (un tablero visual) que facilita al equipo comercial la organización y priorización de las oportunidades de venta, sabiendo en qué etapa se encuentra cada una.
+
+Creacion de nuevas tarjetas dentro de este tablero:
+
+<img width="331" height="659" alt="image" src="https://github.com/user-attachments/assets/d21148bd-9735-4406-9f4a-12b1a0251bc1" />
+
+Asi es como se vería el tablero:
+
+<img width="1920" height="604" alt="image" src="https://github.com/user-attachments/assets/408c4b3d-4e75-457e-ba8e-5f537efd4232" />
+
+Tablero modificado:
+
+<img width="984" height="563" alt="image" src="https://github.com/user-attachments/assets/7afbdd5b-5d03-439f-9d36-a2d9af319bbe" />
+
+
+
