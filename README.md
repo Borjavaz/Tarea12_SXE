@@ -1,12 +1,12 @@
 # Tarea12_SXE
 
-Facturas de clientes 
+Ejemplo de creacion de clientes:
 
-<img width="1920" height="472" alt="image" src="https://github.com/user-attachments/assets/1135e9b3-fe24-4963-bf11-c61ad6ef80ff" />
+<img width="955" height="801" alt="image" src="https://github.com/user-attachments/assets/fbef8b57-5120-4e12-b883-614a0cffde80" />
 
-Facturas de provedores
+Ejemplo de creacion de provedores:
 
-<img width="1920" height="472" alt="image" src="https://github.com/user-attachments/assets/dd90cb05-b97e-4612-8f8d-e89ee2f6ec11" />
+<img width="955" height="801" alt="image" src="https://github.com/user-attachments/assets/7433a1d8-2109-4c58-a312-d8d89ed7755d" />
 
 Estos son los clientes:
 
@@ -15,4 +15,13 @@ Estos son los clientes:
 Estos son los provedores:
 
 <img width="1919" height="318" alt="image" src="https://github.com/user-attachments/assets/9bb3efcb-370e-4036-9300-6c9ae45e4a21" />
+
+
+Facturas de clientes 
+
+<img width="1920" height="472" alt="image" src="https://github.com/user-attachments/assets/1135e9b3-fe24-4963-bf11-c61ad6ef80ff" />
+
+Facturas de provedores
+
+<img width="1920" height="472" alt="image" src="https://github.com/user-attachments/assets/dd90cb05-b97e-4612-8f8d-e89ee2f6ec11" />
 
