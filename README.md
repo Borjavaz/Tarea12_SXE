@@ -50,5 +50,33 @@ Tablero modificado:
 
 <img width="984" height="563" alt="image" src="https://github.com/user-attachments/assets/7afbdd5b-5d03-439f-9d36-a2d9af319bbe" />
 
+Ahora en el menu de inicio de sesion, me aparece el logo de la empresa:
+
+<img width="323" height="522" alt="image" src="https://github.com/user-attachments/assets/a82993a7-d87f-44bf-8e48-a576f1077198" />
+
+### A la hora de entrar en la backup:
+
+Estas son los campos que meti al crear la BD
+
+<img width="447" height="207" alt="image" src="https://github.com/user-attachments/assets/e4fc5245-d761-40b3-9139-f5dab4ca39e4" />
+
+Cuando meto la contraseña y el nombre de la BD:
+
+<img width="685" height="403" alt="image" src="https://github.com/user-attachments/assets/f30e252f-3a73-4e75-bd71-49bdb63d3455" />
+
+Primero me sale esto:
+
+<img width="685" height="403" alt="image" src="https://github.com/user-attachments/assets/fe2852cf-d5d3-4ab6-9ebb-3da4b7c45405" />
+
+Y despues esto:
+
+<img width="685" height="403" alt="image" src="https://github.com/user-attachments/assets/71ac32cb-beb2-4317-b0e2-ace0a74a29b5" />
+
+
+
+
+
+
+
 
 
